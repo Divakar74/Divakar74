@@ -1,82 +1,49 @@
-## Hi there 👋
-Hi, I’m Divakar.
+Divakar here! 
+Learning Software Engineering · Exploring AI & Systems  
 
-I build software that is thoughtful, practical, and grounded in real use —
-from full-stack web systems to applied AI and machine-learning driven tools.
+I’m a learner building software to understand how things work —  
+from full-stack web applications to applied AI systems.
 
-My interests sit at the intersection of engineering and intelligence,
-where clean architecture, clarity, and purpose matter more than noise. 🤍
+Most of my projects are built end-to-end: starting with the problem,
+thinking through the structure, writing the code, and refining it
+until it feels clear and usable. I enjoy learning by building,
+and improving through iteration rather than shortcuts.
 
-
-About
-I enjoy working across the stack — designing APIs, building user-facing interfaces,
-and experimenting with AI systems that solve real problems rather than just showcasing models.
-
-I’ve worked in production environments as a MERN stack developer,
-contributing to scalable features such as authentication, role-based access,
-and real-time interactions.
+This GitHub is a record of that process — curiosity turned into code,
+systems in progress, and ideas slowly taking shape.
 
 
-Selected Work
-
-Neuro-RAG  
-Behavioural competency evaluation system using LLMs and retrieval-augmented generation,
-focused on adaptive and explainable skill assessment.
-
-SoulShine  
-AI-powered mental health monitoring system leveraging neural networks
-to analyze emotional patterns and provide personalized insights.
-
-Agromart  
-Deep-learning based crop disease detection platform using ResNet50,
-designed to support early diagnosis and farmer decision-making.
-
-FlyHigh  
-Online flight ticket booking system built with React and Spring Boot,
-with secure transaction handling and backend service integration.
-
-EduGo  
-Personalized learning discovery platform focused on connecting students
-with the right instructors through intelligent recommendations.
-
-
-Thinking In
+🧰 Thinking & Building With
 
 Java · Python · JavaScript · TypeScript  
 REST APIs · Backend systems · Web architecture  
 Machine Learning · Neural Networks · RAG pipelines 🧠
 
 
-Experience
+📌 Selected Work
 
-MERN Stack Developer Intern — Yale Infotech  
-Worked on a production-grade HR management system,
-implementing authentication flows, role-based access control,
-and real-time features while improving overall system usability.
+Neuro-RAG  
+Behavioural competency evaluation system using LLMs and retrieval-augmented generation.
+
+SoulShine  
+AI-powered mental health monitoring system focused on emotional pattern analysis.
+
+Agromart  
+Deep-learning based crop disease detection platform using ResNet50.
+
+FlyHigh  
+Flight ticket booking platform built with React and Spring Boot.
+
+EduGo  
+Personalized learning discovery platform for students.
 
 
-Currently
+📖 Currently
 
-Exploring applied AI systems, scalable backend design,
-and building projects that balance engineering depth with real-world impact.
-
-
-Connect
-
-Email: divakarramesh2004@gmail.com  
+Building to understand — learning how intelligent and scalable systems
+work in practice, one project at a time.
 
 
-<!--
-**Divakar74/Divakar74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Connect
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: divakarramesh2004@gmail.com
