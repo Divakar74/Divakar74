@@ -12,10 +12,5 @@ I'm intereseted in learning about AI,it's architecture and much more.
 
 📫 Let’s connect:
 
-<a href="https://www.linkedin.com/in/divakar-ramesh/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(100%);"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:divakarramesh2004@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40" style="filter: invert(100%);"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divakar-ramesh/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divakarramesh2004@gmail.com)
