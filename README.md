@@ -1,3 +1,4 @@
+![Divakar Ramesh banner](./generated-image.png)
 Divakar here! 👋
 
 My interests span full-stack development and applied AI,
