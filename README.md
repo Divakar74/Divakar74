@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Divakar74/Divakar74/main/cover.png" />
+</p>
 
 <!--
 **Divakar74/Divakar74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
