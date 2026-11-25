@@ -1,5 +1,5 @@
 ![Divakar Ramesh banner](./generated-image.png)
-Divakar here! 👋
+[[Divakar]](https://divakar74.github.io/Divakar_v1/) here! 👋
 
 My interests span full-stack development and applied AI,
 with a focus on structure, clarity, and real-world usefulness.
